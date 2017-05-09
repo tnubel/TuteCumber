@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Add Numbers">
+    <testcase classname="Feature: Add Numbers.Scenario: Add 2 small numbers" name="01. Given the calculator is cleared" time="0"/>
+    <testcase classname="Feature: Add Numbers.Scenario: Add 2 small numbers" name="02. When I add 5 and 6" time="0"/>
+    <testcase classname="Feature: Add Numbers.Scenario: Add 2 small numbers" name="03. Then the result should be 11" time="0"/>
+    <testcase classname="Feature: Add Numbers.Scenario: Add 2 big numbers" name="01. Given the calculator is cleared" time="0"/>
+    <testcase classname="Feature: Add Numbers.Scenario: Add 2 big numbers" name="02. When I add 56 and 67" time="0"/>
+    <testcase classname="Feature: Add Numbers.Scenario: Add 2 big numbers" name="03. Then the result should be 123" time="0"/>
+  </testsuite>
+</testsuites>

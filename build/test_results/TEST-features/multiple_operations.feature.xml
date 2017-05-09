@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Multiple Addition and Subtraction Operations">
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition" name="01. Given the calculator is cleared" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition" name="02. When I add 5 and 6" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition" name="03. And then add 6" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition" name="04. And then add 65" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition" name="05. Then the result should be 82" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition and subtraction" name="01. Given the calculator is cleared" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition and subtraction" name="02. When I add 5 and 6" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition and subtraction" name="03. And then add 45" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition and subtraction" name="04. And then subtract 24" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition and subtraction" name="05. Then the result should be 32" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition and subtraction result negative" name="01. Given the calculator is cleared" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition and subtraction result negative" name="02. When I subtract 65 from 34" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition and subtraction result negative" name="03. And then add 45" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition and subtraction result negative" name="04. And then subtract 87" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition and subtraction result negative" name="05. Then the result should be -73" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition with clear mid operation" name="01. Given the calculator is cleared" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition with clear mid operation" name="02. When I add 5 and 6" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition with clear mid operation" name="03. And the calculator is cleared" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition with clear mid operation" name="04. And then add 65" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Multiple Addition with clear mid operation" name="05. Then the result should be 65" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Clear resets result to zero" name="01. When the calculator is cleared" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Clear resets result to zero" name="02. Then the result should be 0" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Clear resets result to zero after complex operations" name="01. When I add 5 and 6" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Clear resets result to zero after complex operations" name="02. And then add 65" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Clear resets result to zero after complex operations" name="03. And then subtract 4055" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Clear resets result to zero after complex operations" name="04. And then add 3404" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Clear resets result to zero after complex operations" name="05. And the calculator is cleared" time="0"/>
+    <testcase classname="Feature: Multiple Addition and Subtraction Operations.Scenario: Clear resets result to zero after complex operations" name="06. Then the result should be 0" time="0"/>
+  </testsuite>
+</testsuites>
