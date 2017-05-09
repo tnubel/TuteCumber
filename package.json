@@ -11,6 +11,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "cucumber": "^0.4.1"
+    "cucumber": "^0.4.1",
+    "cucumber-junit-reporter": "~0.0.1"
   }
 }
