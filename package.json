@@ -7,7 +7,7 @@
     "url": "http://github.com/denford/TuteCumber.git"
   },
   "scripts": {
-    "test": "./node_modules/cucumber/bin/cucumber.js"
+    "test": "\"./node_modules/cucumber/bin/cucumber.js\""
   },
   "dependencies": {},
   "devDependencies": {
